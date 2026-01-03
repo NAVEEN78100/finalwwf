@@ -1,6 +1,7 @@
 {
   "framework": "nextjs",
-  "rootDirectory": "finalwwf",
   "installCommand": "npm install",
-  "buildCommand": "npm run build --workspace finalwwf"
+  "buildCommand": "npm run build --workspace finalwwf",
+  "version": 2
+
 }
